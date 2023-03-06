@@ -1,4 +1,4 @@
-# My NODE-JS Homeworks Repo for [Patika.dev](https://www.patika.dev/tr)
+# My HTML Homeworks Repo for [Patika.dev](https://www.patika.dev/tr)
 
 <br>
 <br>
